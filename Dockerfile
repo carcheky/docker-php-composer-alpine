@@ -6,6 +6,12 @@ RUN apk --update add wget \
 		     curl \
 		     git \
 		     php7 \
+		     sshpass \
+		     dos2unix \
+		     zip \
+		     unzip \
+		     openssh-client \
+		     git \
 		     php7-curl \
 		     php7-openssl \
 		     php7-iconv \
